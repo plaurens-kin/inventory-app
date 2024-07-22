@@ -1,13 +1,6 @@
 # Inventory App
 
-REST API that have information of all the videogames that can be reviewed.
+Nothing to see here, go to the specific branch of `Using AZ KeyVault in Spring Boot`:
 
-Built using:
-
-* Java 21
-* Springboot 3.x
-* Redis
-
-### Quickstart
-
-Clone this repo, hit 'run'
+* [Using Azure SDK](https://github.com/plaurens-kin/inventory-app/tree/f/using-azure-sdk)
+* [Using Property Source](https://github.com/plaurens-kin/inventory-app/tree/f/using-keyvault-property-source)
